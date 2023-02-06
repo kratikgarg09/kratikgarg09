@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kratikgarg09
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on python developers 
+- 👋 Hi, I’m @kratikgarg
+- 👀 I’m interested in C/C++ 
+- 🌱 I’m currently learning DSA with C++
+- 💞️ I’m looking for C/C++ developer role or SDE role 
 - 📫 contact me at gargkratik707@gmail.com
 
 <!---
