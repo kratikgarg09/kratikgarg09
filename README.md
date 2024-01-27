@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kratikgarg
-- 👀 I’m interested in C/C++ 
+- 👀 I’m interested in C/C++, Java
 - 🌱 I’m currently learning DSA with C++
-- 💞️ I’m looking for C/C++ developer role or SDE role 
+- 💞️ I’m looking for C/C++ and cor java developer role or SDE role 
 - 📫 contact me at gargkratik707@gmail.com
 
 <!---
